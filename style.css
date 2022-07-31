@@ -291,7 +291,7 @@ header .container nav .toggle-menu {
     display: flex;
     /* justify-content: space-around; */
     align-items: center;
-    background: url(/design-features.jpg);
+    background: url(design-features.jpg);
     background-size: cover;
     position: relative;
     overflow: hidden;
